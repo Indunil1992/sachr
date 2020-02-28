@@ -1,0 +1,67 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "c2f89453-0cb0-4ff7-ab5a-751b89c2ab8f": {
+        "id": "c2f89453-0cb0-4ff7-ab5a-751b89c2ab8f",
+        "parent": null,
+        "name": "sachithra.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "sachithra.js",
+        "cursor": {
+          "lineNumber": 3,
+          "column": 43
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": []
+        },
+        "triggers": []
+      }
+    },
+    "openFiles": [
+      "c2f89453-0cb0-4ff7-ab5a-751b89c2ab8f"
+    ],
+    "currentFileId": "c2f89453-0cb0-4ff7-ab5a-751b89c2ab8f",
+    "resources": {},
+    "customTemplate": {
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "sachr",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "eu-central-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1582870958971
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "sachr",
+      "url": "https://github.com/Indunil1992/sachr"
+    }
+  }
+}
